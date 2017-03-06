@@ -4,6 +4,6 @@
 
 **Today's Progress**: 
 
-**Thoughts:** I
+**Thoughts:**
 
 **Link to work:** 
