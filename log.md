@@ -24,10 +24,13 @@
 **Today's Progress**: 
 
 - iOS Course: Completed lesson 48 - learned about UIStackView
+- Tasky: Add App Shortcuts to Nougat Devices
 
 **Thoughts:**
 
 - iOS Course - Need to practise more on the UIStackViews
+- App Shortcuts are easy to implement. Added static ones, will move to dynamic ones later.
 
 **Link to work:** 
 - [Miracle Pill](https://github.com/kalyandechiraju/MiraclePill)
+- [Tasky](https://play.google.com/store/apps/details?id=studios.codelight.codify)
