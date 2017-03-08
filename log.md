@@ -18,3 +18,16 @@
 - [Android Smart Login](https://github.com/CodelightStudios/Android-Smart-Login)
 - [Miracle Pill](https://github.com/kalyandechiraju/MiraclePill)
 - [Tasky](https://play.google.com/store/apps/details?id=studios.codelight.codify)
+
+### Day 1: March 08, 2017
+
+**Today's Progress**: 
+
+- iOS Course: Completed lesson 48 - learned about UIStackView
+
+**Thoughts:**
+
+- iOS Course - Need to practise more on the UIStackViews
+
+**Link to work:** 
+- [Miracle Pill](https://github.com/kalyandechiraju/MiraclePill)
