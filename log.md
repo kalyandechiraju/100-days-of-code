@@ -48,3 +48,20 @@
 **Link to work:** 
 
 - [Tasky](https://play.google.com/store/apps/details?id=studios.codelight.codify)
+
+### Day 3: March 12, 2017
+
+**Today's Progress**: 
+
+- iOS Course: Completed lesson 50 - learned about Segues
+- Tasky: Migrate from Permissions Dispatcher to EasyPermissions
+
+**Thoughts:**
+
+- iOS Course - Learnt and praticed about Segues
+- Permissions screens became tough to handle as the code needs to go in onResume which is causing in a loop.
+- Need to contribute to Easy Permissions with the theme option to the Alert Builders.
+
+**Link to work:** 
+- [Miracle Pill](https://github.com/kalyandechiraju/MiraclePill)
+- [Tasky](https://play.google.com/store/apps/details?id=studios.codelight.codify)
