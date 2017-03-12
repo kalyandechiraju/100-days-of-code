@@ -34,3 +34,17 @@
 **Link to work:** 
 - [Miracle Pill](https://github.com/kalyandechiraju/MiraclePill)
 - [Tasky](https://play.google.com/store/apps/details?id=studios.codelight.codify)
+
+### Day 2: March 10, 2017
+
+**Today's Progress**: 
+
+- Tasky: Permissions Bug Fixes
+
+**Thoughts:**
+
+- Fixed all the permission dialog related bug fixes.
+
+**Link to work:** 
+
+- [Tasky](https://play.google.com/store/apps/details?id=studios.codelight.codify)
