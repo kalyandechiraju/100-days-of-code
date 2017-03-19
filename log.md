@@ -65,3 +65,20 @@
 **Link to work:** 
 - [Miracle Pill](https://github.com/kalyandechiraju/MiraclePill)
 - [Tasky](https://play.google.com/store/apps/details?id=studios.codelight.codify)
+
+### Day 4: March 19, 2017
+
+**Today's Progress**: 
+
+- Tasky: Add MVVM for Weather
+- Weather-Downloader: Fix Manifest error and move to next version(0.2)
+
+**Thoughts:**
+
+- Try and try till you succeed. This is what happend when I started implementing MVVM in Tasky. Kicked off with Weather Changes.
+- Updated Weather-Downloader, contribute to open source - check.
+
+**Link to work:** 
+
+- [Tasky](https://play.google.com/store/apps/details?id=studios.codelight.codify)
+- [Weather-Downloader](https://github.com/CodelightStudios/Weather-Downloader)
