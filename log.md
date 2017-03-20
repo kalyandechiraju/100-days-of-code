@@ -82,3 +82,23 @@
 
 - [Tasky](https://play.google.com/store/apps/details?id=studios.codelight.codify)
 - [Weather-Downloader](https://github.com/CodelightStudios/Weather-Downloader)
+
+### Day 5: March 20, 2017
+
+**Today's Progress**: 
+
+- Tasky: Fix Weather MVVM bugs and add weather display setting to remove location permission loop
+- Weather-Downloader: Update README with method count badge
+- iOS Course - Started new project "RetroCalculator" and pushed it to github
+
+
+**Thoughts:**
+
+- First Step in MVVM was great. Have to proceed and make massive structural changes to app and even move it to realm.
+- Did well in course today. Completed 3 lessons related to Constraints & UIStackview with Retro Calculator app. Also learnt to add custom font and sound files.
+
+**Link to work:** 
+
+- [Tasky](https://play.google.com/store/apps/details?id=studios.codelight.codify)
+- [Weather-Downloader](https://github.com/CodelightStudios/Weather-Downloader)
+- [RetroCalculator](https://github.com/kalyandechiraju/RetroCalculator)
