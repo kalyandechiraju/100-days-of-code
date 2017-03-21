@@ -102,3 +102,19 @@
 - [Tasky](https://play.google.com/store/apps/details?id=studios.codelight.codify)
 - [Weather-Downloader](https://github.com/CodelightStudios/Weather-Downloader)
 - [RetroCalculator](https://github.com/kalyandechiraju/RetroCalculator)
+
+### Day 6: March 21, 2017
+
+**Today's Progress**: 
+
+- Tasky: Start adding bridge pattern for data layer. Getting ready to transform to RxJava.
+
+
+**Thoughts:**
+
+- I think I need to have more structure to the code. So started adding a pattern for Data layer.
+- Rx is super cool. Need to add in the app.
+
+**Link to work:** 
+
+- [Tasky](https://play.google.com/store/apps/details?id=studios.codelight.codify)
