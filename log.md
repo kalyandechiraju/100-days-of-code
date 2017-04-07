@@ -118,3 +118,22 @@
 **Link to work:** 
 
 - [Tasky](https://play.google.com/store/apps/details?id=studios.codelight.codify)
+
+### Days 7 - 17: March 25, 2017 - April 8, 2017
+
+**Today's Progress**: 
+
+- iOS Course: iOS has been my only focus during these 10 days. Learnt iOS to the intermediate level.
+
+
+**Thoughts:**
+
+- I started feeling confortable building iOS apps now. Created around 4 different apps while doing the course during this period.
+
+**Link to work:** 
+
+- [PokeDex](https://github.com/kalyandechiraju/PokeDex)
+- [CloudyShiny](https://github.com/kalyandechiraju/CloudyShiny)
+- [DreamListerApp](https://github.com/kalyandechiraju/DreamListerApp)
+- [RetroCalculator](https://github.com/kalyandechiraju/RetroCalculator)
+
